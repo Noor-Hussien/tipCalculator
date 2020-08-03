@@ -7,13 +7,14 @@ This app calculates the tip for the user, it has three specific tip percentages 
 Time : 5 hours spent 
 
 # Requirements # 
- [*] User  enters bill using TextField successfuly 
- [*] User specifies the tip percentage by either 15%, 18% and 20% and switch back to any. 
- [*] User can click anywhere on the app and the keybaord will hide 
- [*] Both total and tip are displayed in dollars 
+ [x] Create 5 Labels, a Textfield, a View, Segemnted Control 
+ [x] User  enters bill using TextField successfuly 
+ [x] User specifies the tip percentage by either 15%, 18% and 20% and switch back to any. 
+ [x] User can click anywhere on the app and the keybaord will hide 
+ [x] Both total and tip are displayed in dollars 
  
  # Optional # 
- [*] BackGround color changed to green which is presentable to the user 
+ [x] BackGround color changed to green which is presentable to the user 
  
  # Resource 
  Macbook pro 13 
